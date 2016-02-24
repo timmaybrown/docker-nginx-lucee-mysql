@@ -1,0 +1,1 @@
+<cfoutput><h1>Hello From Lucese</h1><h4>It is -- #now()#.</h4></cfoutput>
